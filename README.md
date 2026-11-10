@@ -1,5 +1,4 @@
-# Olist-Customer-Experience-Analytics
-End-to-end E-Commerce Analytics using SQL, Python, Statistics, Machine Learning and Power BI.
+
 # Olist Customer Experience Analytics
 
 **What is driving bad reviews at a Brazilian e-commerce marketplace, and what should the company do about it?**
