@@ -101,7 +101,8 @@ The riskiest 20% of orders had a 19.3% bad-review rate vs 6.1% for the safest 20
 
 | | |
 |---|---|
-| ![Delay vs score](images/02_delay_vs_score.png) | ![States](images/03_states.png) |
+| ![Delay vs score](<img width="1776" height="574" alt="02_delay_vs_score" src="https://github.com/user-attachments/assets/6763810d-1643-4edd-a0fb-02b90c1a51b2" />
+) | ![States](images/03_states.png) |
 | ![Seller concentration](images/05_seller_pareto.png) | ![Model coefficients](images/10_coefficients.png) |
 | ![Themes by category](images/12_theme_by_category.png) | ![Excel report](images/excel_read_me.png) |
 
