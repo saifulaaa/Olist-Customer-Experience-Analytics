@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Incomplete Delivery and Missing Items",
+    "approx_share_pct": 30,
+    "description": "Customers who purchased multiple quantities or multi-item kits only received a partial order with items missing from the package.",
+    "portuguese_keywords": [
+      "recebi apenas",
+      "só chegou",
+      "veio apenas",
+      "só mandaram",
+      "parciais"
+    ],
+    "example_english": [
+      "I bought three products and only two arrived, what are you going to do.",
+      "Bought 4 scales, received only 3 units."
+    ]
+  },
+  {
+    "name": "Product Defects, Poor Quality, and Sizing Issues",
+    "approx_share_pct": 25,
+    "description": "Buyers report products arriving damaged or broken, made of fragile or cheap materials, or having improper sizing and fit.",
+    "portuguese_keywords": [
+      "frágil",
+      "pequeno",
+      "solda",
+      "descascando",
+      "não cabe",
+      "estourado"
+    ],
+    "example_english": [
+      "The screen protector came with several circular marks, probably from manufacturing. I do not recommend the screen protector.",
+      "Watch is already peeling after one week of use!!!"
+    ]
+  },
+  {
+    "name": "Delivery Delays and Non-Receipt",
+    "approx_share_pct": 22,
+    "description": "Orders suffered extensive shipping delays, remained in transit for weeks, or were falsely marked as delivered without arriving.",
+    "portuguese_keywords": [
+      "não entregue",
+      "aguardando a entrega",
+      "não recebi",
+      "em trânsito",
+      "prazo"
+    ],
+    "example_english": [
+      "Expected delivery date 5/17, we urgently need this product and nothing.",
+      "It has been in transit for 26 days and so far, nothing... I find the communication system very difficult."
+    ]
+  },
+  {
+    "name": "Wrong Item or Inferior Model Sent",
+    "approx_share_pct": 13,
+    "description": "Sellers shipped a completely different product, the wrong color or model, or sent a cheaper and lower-specification alternative.",
+    "portuguese_keywords": [
+      "veio outro",
+      "não foi o mesmo",
+      "cor",
+      "paralelas",
+      "modelo"
+    ],
+    "example_english": [
+      "Delivered product was not the same as the order.",
+      "I ordered the Spider-Man bicycle and Captain America's arrived."
+    ]
+  },
+  {
+    "name": "Forced Post Office Pickup Despite Paid Delivery",
+    "approx_share_pct": 10,
+    "description": "Customers paid for freight to receive their items at home but were forced to travel to a post office branch to pick them up.",
+    "portuguese_keywords": [
+      "buscar nos correios",
+      "agência dos correios",
+      "paguei frete",
+      "residência",
+      "retirar"
+    ],
+    "example_english": [
+      "I paid very expensive shipping to receive the product at my house and that didn't happen, it was necessary to pick up the product at the post office branch, hated it.",
+      "I had to go pick it up at the post office. I paid freight to deliver to my residence!"
+    ]
+  }
+]
