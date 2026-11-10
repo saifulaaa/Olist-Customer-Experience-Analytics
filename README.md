@@ -102,9 +102,14 @@ The riskiest 20% of orders had a 19.3% bad-review rate vs 6.1% for the safest 20
 | | |
 |---|---|
 | ![Delay vs score](<img width="1776" height="574" alt="02_delay_vs_score" src="https://github.com/user-attachments/assets/6763810d-1643-4edd-a0fb-02b90c1a51b2" />
-) | ![States](images/03_states.png) |
-| ![Seller concentration](images/05_seller_pareto.png) | ![Model coefficients](images/10_coefficients.png) |
-| ![Themes by category](images/12_theme_by_category.png) | ![Excel report](images/excel_read_me.png) |
+) | ![States](<img width="1926" height="724" alt="03_states" src="https://github.com/user-attachments/assets/257e6723-f2fd-4172-a5a8-fbfa1e73de02" />
+) |
+| ![Seller concentration](<img width="1026" height="650" alt="05_seller_pareto" src="https://github.com/user-attachments/assets/866ebee2-3963-4be6-9ab8-be6ac2e3e069" />
+) | ![Model coefficients](<img width="960" height="720" alt="10_coefficients" src="https://github.com/user-attachments/assets/0ebb89a7-2b05-469f-826c-40b58af966f3" />
+) |
+| ![Themes by category](<img width="1500" height="900" alt="12_theme_by_category" src="https://github.com/user-attachments/assets/e28e8b68-ba8f-4478-885c-2bbbafbe0bd5" />
+) | ![Excel report](<img width="797" height="532" alt="Screenshot 2026-11-10 111527" src="https://github.com/user-attachments/assets/d36e6797-2444-4c03-a33d-3226673d12d3" />
+) |
 
 ---
 
